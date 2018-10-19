@@ -9,12 +9,12 @@ binding. To help you structure your application better and make it easy to test,
 the browser how to do dependency injection and inversion of control.
 
 It also helps with server-side communication, taming async callbacks with promises and deferred objects,
-and it makes client-side navigation and deep linking with hashbang urls or HTML5 pushState a
+and it makes client-side navigation and deep linking with hashbang URLs or HTML5 pushState a
 piece of cake. Best of all? It makes development fun!
 
 --------------------
 
-**On July 1, 2018 AngularJS entered a 3 year Long Term Support period:** [Find out more](https://docs.angularjs.org/misc/version-support-status)
+**On July 1, 2018 AngularJS entered a 3 years of Long Term Support period:** [Find out more](https://docs.angularjs.org/misc/version-support-status)
 
 **Looking for the new Angular? Go here:** https://github.com/angular/angular
 
